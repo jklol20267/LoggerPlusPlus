@@ -6,16 +6,16 @@ Logger++ is made possible using [**Vercel**](https://vercel.com/), [**Github**](
 
 # 🍎 Table of Contents
 
-* [**Introduction to Logger++**](#🐺-logger)
-* [**Table of Contents**](#🍎-table-of-contents)
-* [**Documentation**](#📜-documentation)
-    - [**Settings**](#🔧-settings)
-        - [**Webhook**](#📶-webhook)
-        - [**Image**](#📷-image)
-        - [**Url**](#🔗-url)
-    - [**Creating a Webhook**](#🆕-creating-a-webhook)
-    - [**Hosting**](#🕸-hosting)
-* [**Info**](#ℹ-info)
+* [**Introduction to Logger++**](#-logger)
+* [**Table of Contents**](#-table-of-contents)
+* [**Documentation**](#-documentation)
+    - [**Settings**](#-settings)
+        - [**Webhook**](#-webhook)
+        - [**Image**](#-image)
+        - [**Url**](#-url)
+    - [**Creating a Webhook**](#-creating-a-webhook)
+    - [**Hosting**](#-hosting)
+* [**Info**](#-info)
 
 # 📜 Documentation
 Logger++ has settings you can select and this will teach what each one does
