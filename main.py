@@ -60,8 +60,6 @@ def sendWebhook(ip):
                         **🔗 Url Logger:** `{str(options['url']['enabled'])}`
                         """,
 
-                        "title" : options['webhook']['username'],
-
                         "footer": {
                             "text": " @Cartxrr | Logger++ ",
                             "icon_url": "https://avatars.githubusercontent.com/u/116686230?v=4"
